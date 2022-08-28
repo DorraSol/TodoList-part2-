@@ -1,0 +1,24 @@
+body{
+    margin-top:20px;
+    background: #f8f8f8;
+}
+
+
+.checkbox {
+ margin-right: 20px ;
+  
+}
+
+.icon-interdit {
+    margin-left: 20px ;
+    color: red;
+}
+
+.icon-edit {
+    margin-left: 20px ;
+    color: rgb(21, 11, 170);
+}
+.completed{
+    text-decoration: line-through ;
+    text-decoration-color: black;
+}
